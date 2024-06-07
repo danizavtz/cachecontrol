@@ -9,7 +9,7 @@
     "dev": "NODE_ENV=development node index.js"
   },
   "author": "",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "express": "^4.19.2"
   }
